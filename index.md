@@ -32,7 +32,7 @@ contact:
   熟悉Python、html/CSS、C/C++编程，了解Java、openCV
 
 ### ML&NLP
-  熟悉机器学习常用模型（KNN、K-means、决策树、SVM），对NLP领域任务和模型较为熟悉（word embedding,n-gram,CNN/RNN）
+  熟悉机器学习常用模型（KNN、k-means、决策树、SVM），对NLP领域任务和模型较为熟悉（word embedding,n-gram,CNN/RNN）
 
 ### 其他
   *  英语-6级通过，能够使用技术文档，阅读过一定的学术论文
