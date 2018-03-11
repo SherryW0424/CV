@@ -34,12 +34,14 @@ contact:
 * HTML/CSS
 * JavaScript
 
+### 语言
+  英语-6级通过，可熟练阅读技术文档
 
 ## 项目经历
-### Main Title
+### 日语复合动词分类
 #### Sub Title
-##### `tags` `tags` `tags`
-##### duration
+##### `python` 
+##### 2018.2-至今
 ###### the open summary
 just details.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, ipsam ducimus libero maxime deserunt quaerat explicabo saepe! Voluptates quod eos aliquam pariatur delectus. Laudantium, porro. Fugiat nihil asperiores eos sequi!
@@ -57,15 +59,15 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, ipsam ducimus l
 ### 英福科技
 #### 研发实习生
 ##### 2015.7-2016.3
-前端 数据处理
+
 
 ## 奖励荣誉
 
 * ### 2016.10   获得南开大学明善允能奖学金
 * ### 2016.06   获得“2016届南开大学优秀毕业生”荣誉称号
-* ### 2016.06   获得2015-2016学年度南开大学三好学生荣誉称号
-* ### 2015.10   获得2014-2015学年度南开大学综合一等奖学金
-* ### 2015.10	  获得2014-2015学年度南开大学三好学生荣誉称号
+* ### 2016.06   获得2015-2016学年度南开大学三好学生荣誉称号
+* ### 2015.10   获得2014-2015学年度南开大学综合一等奖学金
+* ### 2015.10   获得2014-2015学年度南开大学三好学生荣誉称号
 * ### 2014.11   获得2013-2014学年度南开大学综合一等奖学金
 * ### 2014.11   获得2013-2014学年度南开大学三好学生荣誉称号
 
