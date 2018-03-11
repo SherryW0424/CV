@@ -55,6 +55,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, ipsam ducimus l
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, ipsam ducimus libero maxime deserunt quaerat explicabo saepe! Voluptates quod eos aliquam pariatur delectus. Laudantium, porro. Fugiat nihil asperiores eos sequi!
 </details>
 
+## 工作经历
+### 英福科技
+#### 研发实习生
+##### 2015.7-2016.3
+前端 数据处理
 
 ## 奖励荣誉
 
