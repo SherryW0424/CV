@@ -45,15 +45,13 @@ just details.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, ipsam ducimus libero maxime deserunt quaerat explicabo saepe! Voluptates quod eos aliquam pariatur delectus. Laudantium, porro. Fugiat nihil asperiores eos sequi!
 
 
-### Main Title
-#### Sub Title
-##### `tags`
-##### duration
-<details>
- <summary>the fold summary</summary>
-  details with summary
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, ipsam ducimus libero maxime deserunt quaerat explicabo saepe! Voluptates quod eos aliquam pariatur delectus. Laudantium, porro. Fugiat nihil asperiores eos sequi!
-</details>
+### 电力大数据分析及可视化关键技术研究与应用
+#### 国网天津电力公司科技项目
+##### `Java` `springMVC` `eCharts` `oracle`
+##### 2015.7-2016.6
+###### the open summary
+just details.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, ipsam ducimus libero maxime deserunt quaerat explicabo saepe! Voluptates quod eos aliquam pariatur delectus. Laudantium, porro. Fugiat nihil asperiores eos sequi!
 
 ## 工作经历
 ### 英福科技
