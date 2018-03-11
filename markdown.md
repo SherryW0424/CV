@@ -1,5 +1,5 @@
 ---
-layout: 魏鑫
+layout: markdown
 title: ''
 lang: 'en'
 photo: 'assets/img/photo.jpg'
