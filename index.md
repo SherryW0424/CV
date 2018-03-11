@@ -7,7 +7,7 @@ contact:
   email: 'sherry_0424@163.com'
   phone: '13512852540'
   web: ''
-  location: ''
+  location: ''
 ---
 
 # 魏鑫
