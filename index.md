@@ -2,7 +2,6 @@
 layout: markdown
 title: ''
 lang: 'en'
-photo: 'assets/img/photo.jpg'
 contact:
   location: ''
   email: 'sherry_0424@163.com'
@@ -40,7 +39,7 @@ contact:
   *  有一年的实习经历，具有良好的团队合作和沟通能力
 
 ## 项目经历
-### 基于神经网络的日语复合动词分类（在研）
+### 基于LSTM的日语复合动词分类
 ##### `python` `mecab` `word2vec` `LSTM`
 ##### 2018.2-至今
 * 使用python编写程序获取数据源（已实现）
