@@ -1,11 +1,11 @@
 ---
-layout: markdown
+layout: 魏鑫
 title: ''
 lang: 'en'
 photo: 'assets/img/photo.jpg'
 contact:
-  email: 'a@a.com'
-  phone: '123456789'
+  email: 'sherry_0424@163.com'
+  phone: '13512852540'
   web: ''
   location: ''
   github: 'NewFuture'
@@ -16,36 +16,25 @@ the markdown resume template
 
 -----------
 
-## Basic
+## 教育背景
 
-### Main Title
-#### Sub Title
-###### summary introduction
+### 南开大学
+#### 计算机与控制工程学院，计算机科学与技术
 
-### Main start with 3 Hashtag(#)
-#### Sub start with 4 Hashtag 
-##### `tags` `with` `backtick`
-##### duration with 5 Hashtag
-just some description
+### 南开大学
+#### 计算机与控制工程学院，计算机科学与技术
 
 
-## Items
+## 技能
 
-### Items Title
-* list items
-* start with
-* asterisks
-* only plain text
-
-### MainTitle
-#### Sub Title
-##### `tags` `tags`
-##### duration
+### 编程语言
 * Python
-* Ruby
-* C++
+* C/C++
+* HTML/CSS
+* JavaScript
 
-## foldable
+
+## 项目经历
 ### Main Title
 #### Sub Title
 ##### `tags` `tags` `tags`
@@ -66,26 +55,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, ipsam ducimus l
 </details>
 
 
-## INLINE
+## 奖励荣誉
 
-* ### inline title:
-        inline items
-        start with 8 spaces
-        in each line
-* ### or just strong message
-* 
-        inline item1
-        inline item2
-*  And you can just Just a simple line
-
-## LIST
-
-* ### item list
-    * item1
-    * item2
-    * time3
-* ### list title
-    * item1
-    * item2
-    * time3
+* ### 2016.10   获得南开大学明善允能奖学金
+* ### 2016.06   获得“2016届南开大学优秀毕业生”荣誉称号
+* ### 2016.06   获得2015-2016学年度南开大学三好学生荣誉称号
+* ### 2015.10   获得2014-2015学年度南开大学综合一等奖学金
+* ### 2015.10	  获得2014-2015学年度南开大学三好学生荣誉称号
+* ### 2014.11   获得2013-2014学年度南开大学综合一等奖学金
+* ### 2014.11   获得2013-2014学年度南开大学三好学生荣誉称号
 
