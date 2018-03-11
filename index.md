@@ -7,7 +7,7 @@ contact:
   email: 'sherry_0424@163.com'
   phone: '13512852540'
   web: ''
-  location: ''
+  location: '天津市津南区海河教育园区同砚路38号南开大学'
 ---
 
 # 魏鑫
