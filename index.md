@@ -56,7 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, ipsam ducimus l
 #### 国网天津电力公司科技项目
 ##### `Java` `springMVC` `eCharts` `oracle`
 ##### 2015.7-2016.6
-###### 
+###### 对国网电力大数据进行数据预处理，并将数据分析与预测的结果进行可视化展示
 * 数据清洗，删除异常点并使用线性插值补全数据
 * 数据处理，构建维度表与事实表
 * 数据可视化，使用折线图、热力图等对电力数据进行可视化展示
