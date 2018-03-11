@@ -11,8 +11,7 @@ contact:
   github: 'NewFuture'
 ---
 
-# markdown
-the markdown resume template
+# 魏鑫
 
 -----------
 
