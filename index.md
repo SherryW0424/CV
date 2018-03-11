@@ -29,7 +29,7 @@ contact:
 ## 技能
 
 ### 工程能力
-  熟悉Python，html/CSS，C/C++编程，了解Java、openCV框架
+  熟悉Python、html/CSS、C/C++编程，了解Java、openCV框架
 
 ### ML&NLP
   熟悉机器学习常用模型（KNN、K-Means、决策树、SVM），对NLP领域任务和模型较为熟悉（word embedding,n-gram,CNN/RNN）
