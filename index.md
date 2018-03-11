@@ -30,7 +30,7 @@ contact:
 ## 技能
 
 ### 工程能力
-
+  熟悉
 
 ### ML&NLP
   熟悉机器学习常用模型（KNN、K-Means、决策树、SVM），对NLP领域任务和模型较为熟悉（word embedding,n-gram,CNN/RNN）
@@ -40,13 +40,12 @@ contact:
   * 有一年的实习经历，具有良好的团队合作和沟通能力
 
 ## 项目经历
-### 基于神经网络的日语复合动词分类
+### 基于神经网络的日语复合动词分类（在研）
 #### Sub Title
 ##### `python` `LSTM`
 ##### 2018.2-至今
-###### the open summary
-just details.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, ipsam ducimus libero maxime deserunt quaerat explicabo saepe! Voluptates quod eos aliquam pariatur delectus. Laudantium, porro. Fugiat nihil asperiores eos sequi!
+###### 结合语境对日语复合动词进行分类
+  
 
 
 ### 电力大数据分析及可视化关键技术研究与应用
