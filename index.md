@@ -3,7 +3,7 @@ layout: markdown
 title: ''
 lang: 'en'
 contact:
-  location: ''
+  location: '天津市津南区海河教育园区南开大学新校区计算机学院'
   email: 'meetsherry@126.com'
   phone: '13512852540'
   web: ''
