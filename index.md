@@ -28,10 +28,10 @@ contact:
 ## 技能
 
 ### 工程能力
-  熟练掌握Python，了解C/C++、unity、HTML/CSS、Java、openCV
+  较为熟练地使用Python，了解C/C++、unity、HTML/CSS、Java、openCV
 
 ### ML&NLP
-  深入了解机器学习常用模型（KNN、k-means、决策树等），对NLP领域任务和模型较为熟悉（word embedding、n-gram、RNN等）
+  熟悉机器学习常用模型（KNN、k-means、决策树等），对NLP领域任务和模型较为熟悉（word embedding、n-gram、RNN等）
 
 ### 其他
   英语-6级通过，能够使用技术文档，阅读过一定的学术论文，参与翻译书籍《Computers as Components: Principles of Embedded Computing System Design》
@@ -39,7 +39,7 @@ contact:
 ## 项目经历
 
 ### 基于深度学习的机器阅读理解测试框架（在研）
-##### `python` `machine comprehension` `corner case` 
+##### `python`  `deep learning`
 ##### 2018.5-至今
 设计同义转述边角样例生成算法与异义拼接边角样例生成算法，基于SQuAD数据集分别生成边角样例。根据多个深度学习系统对边角样例的差别响应，提升深度学习系统的准确性与鲁棒性。
 
@@ -63,11 +63,8 @@ python获取数据源，利用Mecab工具进行分词，使用glove模型训练�
 #### 校企合作
 ##### `C#` `openCV` `unity`  `processing` 
 ##### 2016.9-2017.6
-光球管弦乐：实时读取若干光球颜色，使用openCV识别图中光球颜色变化触发音效。
+根据合作方需求，与美工配合完成若干体感游戏。主要职责为根据具体游戏，读取并处理串口数据，封装为接口。上述游戏已在合作方项目中展出。
 
-声波大战：读取并处理来自传感器的串口数据，将其与unity动画结合。
-
-魔法书：读取并处理来自传感器的串口数据，用processing播放多路动画。
 ## 实习经历
 ### 电力大数据分析及可视化关键技术研究与应用
 #### 天津英福科技有限公司
