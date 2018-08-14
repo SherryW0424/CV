@@ -16,7 +16,7 @@ contact:
 ## 教育背景
 2016.9-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 南开大学&nbsp;&nbsp;&nbsp;&nbsp;
-计算机学院，计算机科学与技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+计算机学院，计算机科学与技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 硕士
 
 2012.9-2016.6&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,8 +24,6 @@ contact:
 计算机与控制工程学院，计算机科学与技术&nbsp;&nbsp;&nbsp;&nbsp;
 学士
 
-| 2016.9-至今 | 南开大学 | 计算机学院，计算机科学与技术 | 硕士 |
-| 2012.9-2016.6 | 南开大学 | 计算机与控制工程学院，计算机科学与技术 | 学士 |
 
 ## 技能
 
