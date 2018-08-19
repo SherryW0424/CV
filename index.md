@@ -2,6 +2,7 @@
 layout: markdown
 title: ''
 lang: 'en'
+photo: 'assets/img/1c.jpg'
 contact:
   location: '天津市津南区海河教育园区南开大学新校区计算机学院'
   email: 'meetsherry@126.com'
