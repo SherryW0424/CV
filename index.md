@@ -32,7 +32,7 @@ contact:
   较为熟练地使用Python，了解C/C++、unity、HTML/CSS、Java、openCV
 
 ### ML&NLP
-  熟悉机器学习常用模型（KNN、k-means、决策树等），对NLP领域任务和模型较为熟悉（word embedding、n-gram、RNN等）
+  熟悉机器学习常用模型（KNN、k-means、决策树、SVM等），对NLP领域任务和模型较为熟悉（word embedding、n-gram、RNN等）
 
 ### 其他
   英语-6级通过，能够使用技术文档，阅读过一定的学术论文，参与翻译书籍《Computers as Components: Principles of Embedded Computing System Design》
