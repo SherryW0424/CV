@@ -107,7 +107,7 @@ header {
     img {
       max-width: 8.5em;
       height: 6.8em;
-      border-radius: 50%;
+      //border-radius: 50%;
     }
   }
 
@@ -160,7 +160,8 @@ section {
   }
 
   h2 {
-    width: $subject-width - 1%;
+    width: $subject-width - 10%;
+    margin-top: 0.8em;
     margin-right: 1%;
     font-size: 1.3em;
     text-align: right;
@@ -178,7 +179,7 @@ section {
 
   .content {
     padding-left: 1%;
-    width: 98% - $subject-width;
+    width: 108% - $subject-width;
   }
 }
 
@@ -186,7 +187,7 @@ section {
 /*内部小块布局*/
 
 .block {
-  margin: 1em 0;
+  margin: 0.8em 0;
 
   &:not(:first-child) {
     padding-top: .5em;
@@ -224,7 +225,7 @@ section {
 .head {
   .title {
     margin: 0;
-    font-size: 1.3em;
+    font-size: 1.2em;
     font-weight: 800; // margin: 0;
     color: black;
 
